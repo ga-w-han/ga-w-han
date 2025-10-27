@@ -2,7 +2,7 @@
 name: test
 about: test
 title: ''
-labels: ["bug", "help wanted"]
+labels: bug, help wanted
 assignees: ''
 
 ---
